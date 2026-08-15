@@ -1,6 +1,6 @@
 ---
 title: Bud Rot
-parent: Start
+parent: Wiki
 ---
 
 # Bud Rot
