@@ -1,3 +1,10 @@
+---
+title: Start
+layout: home
+nav_order: 1
+permalink: /
+---
+
 # bergrows Grow-Wiki
 
 Hier findest du eine Sammlung an relevanten Themen für den Anbau von Cannabis.

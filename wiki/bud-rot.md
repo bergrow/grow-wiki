@@ -1,5 +1,6 @@
 ---
 title: Bud Rot
+parent: Start
 ---
 
 # Bud Rot
